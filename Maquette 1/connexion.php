@@ -20,7 +20,7 @@
 
         <div id="ecran">
             <div class="formulaire">
-                <form>
+                <form action="accueil.php" meta="post">
 
                     <div class="form-group">
                         <label for="exampleInputEmail1">Adresse e-mail</label>

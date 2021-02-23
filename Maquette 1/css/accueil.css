@@ -1,0 +1,23 @@
+@font-face {
+    font-family: Goldplay;
+    src: url(../Font/Goldplay\ Regular.otf);
+ }
+
+ @font-face {
+    font-family: Goldplay;
+    src: url(../Font/Goldplay\ Bold.otf);
+    font-weight: bold;
+ }
+
+body {
+   
+    background-color: white;
+    background-image:url('../Images/background.jpeg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 110vh;
+    max-height: 125vh;
+    background-position-x: center;
+    font-family: Goldplay;
+  }
+
