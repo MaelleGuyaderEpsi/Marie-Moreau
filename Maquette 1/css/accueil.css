@@ -70,7 +70,8 @@ body {
   width: 90%;
   box-shadow: 1px 1px 12px #555;
   padding: 0.5em;
-  left: 10%;
+  left: 5%;
+  position: absolute;
 }
 
 .divImageSection4

@@ -22,29 +22,37 @@
             <div class="col-s-12">
                 <div class="espace">
                     <div class="titreGrandeSection">
-                        Les prioritées
+                        Les priorités 1
                     </div>  
                     
                     <div class="divSection4">
                         <div class="titreSection">
-                            sguohsfdvbhksdf
+                            Lorem ipsum dolor sit amet
                         </div>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
                             Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
                             Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
                             cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+                            
+                            <div class="divSection4">
+                                testestest
+                            </div>
+
                         
                     </div>
+
+                    <div class="divSection4">
+                        ertertgreteter
+                    </div>
+
                 </div>
 
-                <div class="espace">                    
-                    <div class="divSection4">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
-                    cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                    </div>
-                </div>
+               
+                    
+
+                    
+                
             </div>      
         </div>
     </body>
