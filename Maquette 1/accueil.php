@@ -22,7 +22,7 @@
             <div class="col-s-12">
                 <div class="espace">
                     <div class="titreGrandeSection">
-                        Les objectifs 
+                        Les prioritées
                     </div>  
                     
                     <div class="divSection4">
